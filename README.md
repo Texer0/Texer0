@@ -2,7 +2,7 @@
 <a href="https://github.com/Texer0/Visionary">
   <img src="src/Visionary.png" alt="Visionary" width='400'>
 </a>
-<br>
+<br><br>
 
 # Skills
 <p align="center">
@@ -17,8 +17,3 @@
 </p>
 
 <br><br>
-## Contact me
-<p align="center">
-  <a href="mailto:Max_Zta@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/maximiliano-zonta/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
